@@ -1,7 +1,5 @@
 # vue-project
 
-#Star-Wars-Films
-
 Star Wars Films with Vue 3
 
 API: https://swapi.dev/api/films
